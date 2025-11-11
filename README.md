@@ -61,7 +61,7 @@ This image shows the circuit assembled on the LPC1768 Evaluation Board.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone  https://github.com/the-rajanand/Digital-Vault-LPC1768.git
     cd Digital-Vault-LPC1768
     ```
 2.  **Open Project:** Open the C source file (`digital_vault.c`) within **Keil µVision IDE**.
