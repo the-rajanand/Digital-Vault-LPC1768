@@ -50,12 +50,12 @@ The system's logic, including password verification, motor rotation, and sensor-
 ### Circuit Diagram
 This diagram details the pin-level hardware connections between the LPC1768 and the external components.
 
-![Circuit Diagram](Circuit_Diagram.png)
+![Circuit Diagram](Circuit_Diagram.jpg)
 
 ### Physical Circuit Setup
 This image shows the circuit assembled on the LPC1768 Evaluation Board.
 
-![Physical Circuit Setup](Circuit.jpg)
+![Physical Circuit Setup](Circuit.png)
 
 ### Compilation and Flashing
 
